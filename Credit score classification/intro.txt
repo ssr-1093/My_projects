@@ -1,0 +1,5 @@
+Hello.
+This is a project for classifying the customers for credit-score rating using Supervised ML algorithms.
+
+Data preparation and cleaning - removing leaky features, null value handling.
+• Decision tree, Random forest classifier, K-nearest neighbour models to classify users into multiple classes
