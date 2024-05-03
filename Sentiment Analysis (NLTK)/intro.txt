@@ -1,0 +1,5 @@
+Hello.
+Welcome to this miniproject of NLP.
+have carried out Sentiment analysis using NLTK and without using NLTK.
+
+Thanks
